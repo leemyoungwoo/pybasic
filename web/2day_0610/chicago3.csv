@@ -1,0 +1,51 @@
+rank,cafe,menu,Price,Address,lat,lng
+1,Old Oak Tap,BLT,$10,2109 W. Chicago Ave.,41.8956049,-87.67996149999999
+2,Au Cheval,Fried Bologna,$9,800 W. Randolph St.,41.8846582,-87.6476668
+3,Xoco,Woodland Mushroom,$9.50,445 N. Clark St.,41.8905226,-87.6307834
+4,Al’s Deli,Roast Beef,$9.40,"914 Noyes St., Evanston",42.0583217,-87.6837479
+5,Publican Quality Meats,PB&L,$10,825 W. Fulton Mkt.,41.8865998,-87.6484514
+6,Hendrickx Belgian Bread Crafter,Belgian Chicken Curry Salad,$7.25,100 E. Walton St.,41.9002501,-87.6250781
+7,Acadia,Lobster Roll,$16,1639 S. Wabash Ave.,41.8590541,-87.6252007
+8,Birchwood Kitchen,Smoked Salmon Salad,$10,2211 W. North Ave.,41.9102031,-87.68287529999999
+9,Cemitas Puebla,Atomica Cemitas,$9,3619 W. North Ave.,41.9097558,-87.7176727
+10,Nana,Grilled Laughing Bird Shrimp and Fried Po’ Boy,$17,3267 S. Halsted St.,41.8345302,-87.6456492
+11,Lula Cafe,Ham and Raclette Panino,$11,2537 N. Kedzie Blvd.,41.9276207,-87.706792
+12,Ricobene’s,Breaded Steak,$5.49,"Multiple locations, ricobenespizza.co",41.84575400000001,-87.633895
+13,Frog n Snail,The Hawkeye,$14,"3124 N. Broadway, 773-661-9166",41.9385388,-87.6445289
+14,Crosby’s Kitchen,Chicken Dip,$10,3455 N. Southport Ave.,41.9451044,-87.6636812
+15,Longman & Eagle,Wild Boar Sloppy Joe,$13,2657 N. Kedzie Ave.,41.9301107,-87.7072408
+16,Bari,Meatball Sub,$4.50,1120 W. Grand Ave.,41.89129000000001,-87.655557
+17,Manny’s,Corned Beef,$11.95,1141 S. Jefferson St.,41.8678529,-87.6419289
+18,Eggy’s,Turkey Club,$11.50,333 E. Benton Pl.,41.8852691,-87.6184837
+19,Old Jerusalem,Falafel,$6.25,1411 N. Wells St.,41.9080539,-87.6343113
+20,Mindy’s HotChocolate,Crab Cake,$15,1747 N. Damen Ave.,41.91369539999999,-87.6771273
+21,Olga’s Delicatessen,Chicken Schnitzel,$5,3209 W. Irving Par,42.008659,-88.1584106
+22,Dawali Mediterranean Kitchen,Shawarma,$6,"Multiple locations, dawalikitchen.co",41.9360554,-87.6372603
+23,Big Jones,Toasted Pimiento Cheese,$8,5347 N. Clark St.,41.9794496,-87.66795719999999
+24,La Pane,Vegetarian Panino,$5.99,2954 W. Irving Par,41.954162,-87.70271079999999
+25,Pastoral,Cali Chèvre,$7.52,"Multiple locations, pastoralartisan.co",41.9360554,-87.6372603
+26,Max’s Deli,Pastrami,$11.95,191 Skokie Valley Rd.,42.156691,-87.803618
+27,Lucky’s Sandwich Co.,The Fredo,$7.50,"Multiple locations, luckysandwich.co",41.945325,-87.6551444
+28,City Provisions,Smoked Ham,$12.95,1818 W. Wilson Ave.,41.9652987,-87.67557959999999
+29,Papa’s Cache Sabroso,Jibarito,$7,2517 W. Division St.,41.90272179999999,-87.6902135
+30,Bavette’s Bar & Boeuf,Shaved Prime Rib,$21,218 W. Kinzie St.,41.8893683,-87.6349487
+31,Hannah’s Bretzel,Serrano Ham and Manchego Cheese,$9.79,"Multiple locations, hannahsbretzel.co",41.8846043,-87.6303592
+32,La Fournette,Tuna Salad,$9.75,1547 N. Wells St.,41.9105258,-87.6343775
+33,Paramount Room,Paramount Reuben,$13,415 N. Milwaukee Ave.,41.8896188,-87.64484259999999
+34,Melt Sandwich Shoppe,The Istanbul,$7.95,1840 N. Damen Ave.,41.91504990000001,-87.6778047
+35,Floriole Cafe & Bakery,B.A.D.,$9,1220 W. Webster Ave.,41.9218521,-87.6592124
+36,First Slice Pie Café,Duck Confit and Mozzarella,$9,5357 N. Ashland Ave.,41.9797099,-87.66934409999999
+37,Troquet,Croque Monsieur,$8,1834 W. Montrose Ave.,41.9617122,-87.67581620000001
+38,Grahamwich,Green Garbanzo,$8,615 N. State St.,41.89296119999999,-87.6278214
+39,Saigon Sisters,The Hen House,$7,"Multiple locations, saigonsisters.co",41.8781136,-87.6297982
+40,Rosalia’s Deli,Tuscan Chicken,$6,241 N. York Rd.,41.9047551,-87.9396459
+41,Z&H MarketCafe,The Marty ,$7.25,1323 E. 57th St.,41.7913185,-87.5938456
+42,Market House on the Square,Whitefish,$11,"655 Forest Ave., Lak",42.251794,-87.84132
+43,Elaine’s Coffee Call,"Oat Bread, Pecan Butter, and Fruit Jam",$6,"Hotel Lincoln, 1816 N",41.9152875,-87.6343888
+44,Marion Street Cheese Market,Cauliflower Melt,$9,100 S. Marion St.,41.8863622,-87.8022297
+45,Cafecito,Cubana,$5.49,26 E. Congress Pkwy.,41.8758102,-87.6264489
+46,Chickpea,Kufta,$8,2018 W. Chicago Ave.,41.8960738,-87.6778185
+47,The Goddess and Grocer,Debbie’s Egg Salad,$6.50,25 E. Delaware Pl.,41.89897850000001,-87.6273926
+48,Zenwich,Beef Curry,$7.50,416 N. York St.,41.9105832,-87.94048839999999
+49,Toni Patisserie,Le Végétarien,$8.75,65 E. Washington St.,41.8831061,-87.6254381
+50,Phoebe’s Bakery,The Gatsby,$6.85,"3351 N. Broadway, 773-868-4000",41.9431632,-87.6445071
